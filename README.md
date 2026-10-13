@@ -2,7 +2,7 @@
 
 Identifies the Punjab districts most affected by paddy residue burning (1 Oct - 30 Nov 2025) from NASA VIIRS fire detections, then shows the top districts as pre-fire and post-fire Sentinel-2 false colour composites.
 
-The final output is one image: `05_composite_preview.png`.
+The final output is one image: `chethan prasad-1DA25SCS04.png`.
 
 > Burn indices (NBR / dNBR) are intentionally **not** computed here. They belong to the next stage.
 
@@ -91,3 +91,5 @@ Step 1 samples WorldCover remotely and can take a few minutes.
 - ESA WorldCover 2021 v200
 - Copernicus Sentinel-2 Level 2A (processed in Google Earth Engine)
 - GADM 4.1 administrative boundaries
+
+- personal intelligence used is "Cluade"
