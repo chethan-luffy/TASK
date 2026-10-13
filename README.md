@@ -2,7 +2,7 @@
 
 Identifies the Punjab districts most affected by paddy residue burning (1 Oct - 30 Nov 2025) from NASA VIIRS fire detections, then shows the top districts as pre-fire and post-fire Sentinel-2 false colour composites.
 
-The final output is one image: `chethan prasad-1DA25SCS04.png`.
+The final output is one image: `chethan prasad_1DA25SCS04.png`.
 
 > Burn indices (NBR / dNBR) are intentionally **not** computed here. They belong to the next stage.
 
