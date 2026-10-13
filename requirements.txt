@@ -1,0 +1,9 @@
+geopandas>=1.0
+pandas
+numpy
+shapely>=2.0
+rasterio
+matplotlib
+pillow
+requests
+earthengine-api
